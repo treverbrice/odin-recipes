@@ -2,4 +2,4 @@
 Recipes html project from The Odin Project
 
 # How to view
-Download the files and open `index.html` in a web browser
+A live version of this site is viewable [here](https://treverbrice.github.io/odin-recipes/)
